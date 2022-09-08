@@ -37,41 +37,41 @@ let fs = require('fs')
 */
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = ['6281361281833']
-global.mods = ['6281361281833']
+global.owner = ['6285763376203']
+global.mods = ['6285763376203']
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.author = '𝑴𝒀 𝐴𝐿𝐷𝐼'
-global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.author = '𝑴𝒀 𝑻𝒂𝒏𝒊𝒔𝒚𝒂'
+global.namebot = '​𝑻𝒂𝒏𝒊𝒔𝒚𝒂 𝑴𝒅'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐛𝐥𝐚𝐜𝐤 𝐰𝐚𝐫'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.wm = '𝑻𝒂𝒏𝒊𝒔𝒚𝒂 𝑴𝒅'
 global.watermark = wm
-global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.wm2 = '𝑻𝒂𝒏𝒊𝒔𝒚𝒂 𝑴𝒅 '
 global.wm3 = '𝑌𝑢𝑠𝒉𝑖𝑛𝑜 𝑀𝑑 '
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ownername = '⟆𝐀⃟𝐿𝐷𝐼'   
-global.ownernomor = '+62 813 6128 1833'
+global.ownername = '𝑻𝑨𝑵𝑰𝑺𝒀𝑨'   
+global.ownernomor = '+62 857-6337-6203'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
+global.Linkgc = '𝑴𝒊𝒏𝒕𝒂 𝑲𝒆 𝑶𝒘𝒏𝒆𝒓'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ig = 'https://instagram/hyuura_official'
-global.yt = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.ig = '𑁍𝑏𝑒𝑙𝑢𝑚 𝑎𝑑𝑎𑁍'
+global.yt = '✍︎ 𝑚𝑎𝑠𝑖ℎ 𝑝𝑟𝑜𝑠𝑒𝑠 ✍︎'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.dana = '0813 6128 1833'
-global.gopay = '0813 6128 1833'
-global.pulsa = '0813 6128 1833'
-global.saweria =  'https://saweria.co/hyuura'
+global.dana = '0831 8332 1692'
+global.gopay = '𝑡𝑖𝑑𝑎𝑘 𝑎𝑑𝑎'
+global.pulsa = '0857 6337 6203'
+global.saweria =  'https://wa.me/6285763376203'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -168,10 +168,10 @@ global.thumbnailUrl = [
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.dtu = 'ᴄʀᴇᴀᴛᴏʀ'
+global.urlnya = "https://wa.me/6285763376203"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '0857 6337 6203'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
