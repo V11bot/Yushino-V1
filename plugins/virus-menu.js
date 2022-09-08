@@ -80,7 +80,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       let gw = `㋛𓂺`
       const sections = [
       {
-        title: '𝐋𝐢𝐬𝐭 𝐕𝐢𝐫𝐭𝐞𝐱 𝐁𝐲 H⃟𝒚𝒖𝒖𝒓𝒂𝑩𝒐𝒕𝒛',
+        title: '𝐋𝐢𝐬𝐭 𝐕𝐢𝐫𝐭𝐞𝐱 𝐁𝐲 ꨄ︎𝚃𝚊𝚗𝚒𝚜𝚢𝚊ꨄ︎',
         rows: [
           { title: '𝑽𝒊𝒓𝒕𝒆𝒙 1', rowId: `.vir virtex1` },
           { title: '𝑽𝒊𝒓𝒕𝒆𝒙 2', rowId: `.vir virtex2` },
