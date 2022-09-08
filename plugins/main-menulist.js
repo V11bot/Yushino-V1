@@ -245,12 +245,12 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./media/menuh1.jpg') //Gambarnye
 					},
-					"title": "⫰⫯ 𝐇𝐲𝐮𝐮𝐫𝐚𝐁𝐨𝐭𝐳 ⫯⫰ ",
-					"description": "𝑪𝒆𝒌 𝑳𝒊𝒔𝒕 𝑯𝒚𝒖𝒖𝒓𝒂 𝑫𝒊 𝑩𝒂𝒘𝒂𝒉", 
+					"title": "⫰⫯ 𝐓𝐚𝐧𝐢𝐬𝐲𝐚𝐁𝐨𝐭𝐳 ⫯⫰ ",
+					"description": "𝑪𝒆𝒌 𝑳𝒊𝒔𝒕 𝑻𝒂𝒏𝒊𝒔𝒚𝒂 𝑫𝒊 𝑩𝒂𝒘𝒂𝒉", 
 					"retailerId": "Ghost",
 					"productImageCount": 1
 				},
-				    "businessOwnerJid": `5489299044451325@s.whatsapp.net`
+				    "businessOwnerJid": `6285763376203@s.whatsapp.net`
 		}
 	}
 }
